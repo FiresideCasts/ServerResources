@@ -16,8 +16,8 @@ public Plugin myinfo =
 	name		= "Better Offclassing",
 	author		= "Dr. Underscore (James)",
 	description = "Combine class limits for offclasses into a single limit.",
-	version		= "0.1.0",
-	url			= "https://github.com/drunderscore/SourcemodPlugins"
+	version		= "0.1.1",
+	url			= "https://github.com/FiresideCasts/ServerResources"
 };
 
 public void OnPluginStart()
